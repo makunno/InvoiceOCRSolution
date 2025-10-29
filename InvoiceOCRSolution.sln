@@ -9,8 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvoiceOCR.Data", "InvoiceO
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvoiceOCR.Core", "InvoiceOCR.Core\InvoiceOCR.Core.csproj", "{EB66EC52-6509-46C9-8EC0-586B040979E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvoiceOcrApi", "InvoiceOcrApi\InvoiceOcrApi.csproj", "{CD8B6E36-DA7E-4735-8A0A-CDF6208B8682}"
-EndProject
+#Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvoiceOcrApi", "InvoiceOcrApi\InvoiceOcrApi.csproj", "{CD8B6E36-DA7E-4735-8A0A-CDF6208B8682}"
+#EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
