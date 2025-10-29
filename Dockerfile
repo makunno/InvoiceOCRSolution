@@ -1,12 +1,10 @@
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build-env
 WORKDIR /app
 
-# Copy solution and all projects
 COPY InvoiceOCRSolution.sln ./
 COPY InvoiceOCR.Api/ ./InvoiceOCR.Api/
 COPY InvoiceOCR.Core/ ./InvoiceOCR.Core/
 COPY InvoiceOCR.Data/ ./InvoiceOCR.Data/
-# (Repeat COPY for any referenced projects)
 
 RUN dotnet restore
 
