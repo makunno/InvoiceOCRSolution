@@ -1,7 +1,6 @@
 using InvoiceOCR.Core.Services;
 using InvoiceOCR.Data.Repositories;
 using Microsoft.OpenApi.Models;
- // <- Add this
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -25,6 +24,10 @@ builder.Services.AddSwaggerGen(c =>
 });
 
 var app = builder.Build();
+
+// Configure the port from environment variable (for Render.com)
+var port = Environment.GetEnvironmentVariable("PORT") ?? "5000";
+app.Urls.Add($"http://*:{port}");
 
 // Middleware
 if (app.Environment.IsDevelopment())
