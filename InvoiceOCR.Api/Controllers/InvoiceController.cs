@@ -18,6 +18,8 @@ namespace InvoiceOCR.Api.Controllers
             _ocrService = ocrService;
             _parser = parser;
         }
+        [HttpGet]
+        public IActionResult Get() => Ok("InvoiceOCR API is running");
 
         [HttpPost("upload")]
         public async Task<IActionResult> UploadInvoice(IFormFile file)
