@@ -1,0 +1,8 @@
+D:\InvoiceOCRSolution\InvoiceOCR.Api\obj\Debug\net7.0\InvoiceOCR.Api.csproj.AssemblyReference.cache
+D:\InvoiceOCRSolution\InvoiceOCR.Api\obj\Debug\net7.0\rpswa.dswa.cache.json
+D:\InvoiceOCRSolution\InvoiceOCR.Api\obj\Debug\net7.0\InvoiceOCR.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\InvoiceOCRSolution\InvoiceOCR.Api\obj\Debug\net7.0\InvoiceOCR.Api.AssemblyInfoInputs.cache
+D:\InvoiceOCRSolution\InvoiceOCR.Api\obj\Debug\net7.0\InvoiceOCR.Api.AssemblyInfo.cs
+D:\InvoiceOCRSolution\InvoiceOCR.Api\obj\Debug\net7.0\InvoiceOCR.Api.csproj.CoreCompileInputs.cache
+D:\InvoiceOCRSolution\InvoiceOCR.Api\obj\Debug\net7.0\InvoiceOCR.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\InvoiceOCRSolution\InvoiceOCR.Api\obj\Debug\net7.0\InvoiceOCR.Api.MvcApplicationPartsAssemblyInfo.cache

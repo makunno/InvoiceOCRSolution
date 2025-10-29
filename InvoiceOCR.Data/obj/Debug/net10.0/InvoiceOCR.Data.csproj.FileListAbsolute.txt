@@ -1,0 +1,12 @@
+D:\InvoiceOCRSolution\InvoiceOCR.Data\bin\Debug\net10.0\InvoiceOCR.Data.deps.json
+D:\InvoiceOCRSolution\InvoiceOCR.Data\bin\Debug\net10.0\InvoiceOCR.Data.dll
+D:\InvoiceOCRSolution\InvoiceOCR.Data\bin\Debug\net10.0\InvoiceOCR.Data.pdb
+D:\InvoiceOCRSolution\InvoiceOCR.Data\obj\Debug\net10.0\InvoiceOCR.Data.csproj.AssemblyReference.cache
+D:\InvoiceOCRSolution\InvoiceOCR.Data\obj\Debug\net10.0\InvoiceOCR.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\InvoiceOCRSolution\InvoiceOCR.Data\obj\Debug\net10.0\InvoiceOCR.Data.AssemblyInfoInputs.cache
+D:\InvoiceOCRSolution\InvoiceOCR.Data\obj\Debug\net10.0\InvoiceOCR.Data.AssemblyInfo.cs
+D:\InvoiceOCRSolution\InvoiceOCR.Data\obj\Debug\net10.0\InvoiceOCR.Data.csproj.CoreCompileInputs.cache
+D:\InvoiceOCRSolution\InvoiceOCR.Data\obj\Debug\net10.0\InvoiceOCR.Data.dll
+D:\InvoiceOCRSolution\InvoiceOCR.Data\obj\Debug\net10.0\refint\InvoiceOCR.Data.dll
+D:\InvoiceOCRSolution\InvoiceOCR.Data\obj\Debug\net10.0\InvoiceOCR.Data.pdb
+D:\InvoiceOCRSolution\InvoiceOCR.Data\obj\Debug\net10.0\ref\InvoiceOCR.Data.dll
